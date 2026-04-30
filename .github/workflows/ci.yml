@@ -24,4 +24,3 @@ jobs:
         uses: cypress-io/github-action@v7
         with:
           component: true
-      - run: npx cypress run
